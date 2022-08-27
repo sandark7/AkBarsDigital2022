@@ -12,7 +12,7 @@ td {
 }
 blockquote {
   font-family: 'PT Mono', sans-serif;
-  color: #55a6d3;
+  color: #344ddb;
   font-weight: 100;
   letter-spacing: -1px;
 }
@@ -36,7 +36,7 @@ blockquote:before {
   margin-left: 30px;
 }
 .slide.rbn::after {
-  background: #55a6d3;
+  background: #344ddb;
 }
 .slide::before {
   position: absolute;
@@ -98,7 +98,7 @@ blockquote:before {
   color: #999;
 }
 .progress:before {
-  background: #55a6d3;
+  background: #344ddb;
 }
 .tag {
   color: #ad1531;
@@ -130,7 +130,7 @@ blockquote:before {
   opacity: 0;
 }
 .slide.menu-slide .selected-item {
-  background-color: #55a6d3;
+  background-color: #344ddb;
   display: inline-block;
 }
 .slide.menu-slide .transparent {
@@ -138,7 +138,7 @@ blockquote:before {
 }
 .slide.label-header h2 {
   display: inline-block;
-  background-color: #c74251;
+  background-color: #ce4327;
   padding: 10px 15px 15px;
   font-family: 'Eternal UI', sans-serif;
   font-size: 44px;
@@ -196,7 +196,7 @@ figcaption {
   margin-top: 40px !important;
 }
 .label {
-  background-color: #55a6d3;
+  background-color: #344ddb;
   color: #fff;
   padding: 0 10px;
   display: inline-block;
